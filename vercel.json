@@ -1,6 +1,6 @@
 {
    "version": 2,
-   "name": "NJS301x-node",
+   "name": "NJS301x-01-node",
    "builds": [
       { "src": "app.js", "use": "@vercel/node" }
    ],
